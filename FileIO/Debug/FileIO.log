@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  FileIO.cpp
+d:\fileio\fileio\fileio.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  FileIO.vcxproj -> D:\FileIO\Debug\FileIO.exe
